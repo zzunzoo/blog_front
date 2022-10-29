@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.c612682f.css",
-    "main.js": "/static/js/main.340cc031.js",
+    "main.css": "/static/css/main.75055205.css",
+    "main.js": "/static/js/main.8f4a1085.js",
+    "static/media/2.gif": "/static/media/2.c321542cd802ec7446e8.gif",
+    "static/media/Maplestory Bold.ttf": "/static/media/Maplestory Bold.e39287220e971b277c0e.ttf",
+    "static/media/1.gif": "/static/media/1.fc0d448760795014ab6d.gif",
     "index.html": "/index.html",
-    "main.c612682f.css.map": "/static/css/main.c612682f.css.map",
-    "main.340cc031.js.map": "/static/js/main.340cc031.js.map"
+    "main.75055205.css.map": "/static/css/main.75055205.css.map",
+    "main.8f4a1085.js.map": "/static/js/main.8f4a1085.js.map"
   },
   "entrypoints": [
-    "static/css/main.c612682f.css",
-    "static/js/main.340cc031.js"
+    "static/css/main.75055205.css",
+    "static/js/main.8f4a1085.js"
   ]
 }
